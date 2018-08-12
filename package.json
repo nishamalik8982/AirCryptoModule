@@ -1,0 +1,72 @@
+{
+  "_from": "@lakeba-solutions/aircryptolib",
+  "_id": "@lakeba-solutions/aircryptolib@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OSB/uig/9De8SRy7igSMuVv8Iw0yiziB5URBZ29diQS6II8EArLMYiAYee5XzuZPKhRZKrilmLDBarDOXlGE7Q==",
+  "_location": "/@lakeba-solutions/aircryptolib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@lakeba-solutions/aircryptolib",
+    "name": "@lakeba-solutions/aircryptolib",
+    "escapedName": "@lakeba-solutions%2faircryptolib",
+    "scope": "@lakeba-solutions",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@lakeba-solutions/aircryptolib/-/aircryptolib-1.0.0.tgz",
+  "_shasum": "4fb50f7bd6155ec7f90ab033e8a2b5bf11269401",
+  "_spec": "@lakeba-solutions/aircryptolib",
+  "_where": "C:\\Users\\Nicola\\OneDrive\\AirCrypto\\app",
+  "author": {
+    "name": "Lakeba-solutions"
+  },
+  "bugs": {
+    "url": "https://github.com/lakeba-solutions/AirCryptoLib/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "bluebird": "^3.5.1",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.3",
+    "hi-base64": "^0.2.1",
+    "i": "^0.3.6",
+    "json-serialize": "^1.1.3",
+    "random-number-csprng": "^1.0.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "secure-random": "^1.1.1",
+    "utf8": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Payments in crypto for top-up",
+  "devDependencies": {
+    "window": "^4.2.5"
+  },
+  "homepage": "https://github.com/lakeba-solutions/AirCryptoLib#readme",
+  "keywords": [
+    "Top-up",
+    "Crypto",
+    "AUD"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@lakeba-solutions/aircryptolib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakeba-solutions/AirCryptoLib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
